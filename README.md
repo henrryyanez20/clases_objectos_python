@@ -7,17 +7,17 @@ Web: [Inove](http://inove.com.ar)
 En este repositorio encontrarán los siguientes archivos:
 
 __Ejemplos de programación procedural vs OOP__\
-ejemplo_oop_detalle.py
-ejemplo_oop_detalle.py
-ejemplo_oop.py
+ejemplo_oop_detalle.py\
+ejemplo_oop_detalle.py\
+ejemplo_oop.py\
 
 __Ejemplos de uso y herencia de clases__\
 clases.py
 
 __Ejemplos de clases__\
-animal.py
-person.py
-vehicle.py
+animal.py\
+person.py\
+vehicle.py\
 dispatcher.py
 
 # Consultas
