@@ -3,7 +3,7 @@ Inove Escuela de Código\
 info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
-# Programación orientada a objectos! [Python]
+# Programación orientada a objetos! [Python]
 En este repositorio encontrarán los siguientes archivos:
 
 __Ejemplos de programación procedural vs OOP__\
