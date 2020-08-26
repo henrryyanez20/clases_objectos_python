@@ -7,7 +7,7 @@ Web: [Inove](http://inove.com.ar)
 En este repositorio encontrarán los siguientes archivos:
 
 __Ejemplos de programación procedural vs OOP__\
-ejemplo_oop_detalle.py\
+ejemplo_procedural.py\
 ejemplo_oop_detalle.py\
 ejemplo_oop.py
 
