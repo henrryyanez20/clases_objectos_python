@@ -58,6 +58,12 @@ class Cat(Animal):
 
 # class Cow(Animal):
 #     ''' Clase Cow que hereda de Animal'''
+#      def __init__(self, name, age, health):
+        
+#        super().__init__(name,age)   #Así creo constructores heredables, la idea es no volver a repetir lo que la clase Padre definió como variables Name, age.
+#        self.health = health
+        
+
 
 #     def sleep(self):
 #         if self.age > 3:
@@ -83,7 +89,8 @@ if __name__ == '__main__':
 
     animal_1 = Dog('Sirius', 8)
     animal_2 = Cat('Minerva', 1)
-
+    #animal_3 = Cow('Milka', 50, 'ok')
+    
     print('¿Cuanto duerme el perro por la noche?', animal_1.sleep())
     print('¿Cuanto duerme el gato por la noche?', animal_2.sleep())
 
